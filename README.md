@@ -1,5 +1,5 @@
 # Assignment3-Diagnosis
-Fiels for Assignment 3, AI: Diagnosis (Andi and Tonghe)
+Files for Assignment 3, AI: Diagnosis (Andi and Tonghe)
 
 Hej Tonghe,
 
@@ -9,7 +9,7 @@ Fun times ahead.  I guess it looks complicated now, but it's really just Bayes c
 
 ----
 
-Hej Andy,
+Hej Andi,
 
 Thanks for creating this repository. GitHub is fun.
 
