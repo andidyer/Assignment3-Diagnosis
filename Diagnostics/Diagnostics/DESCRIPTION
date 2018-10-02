@@ -1,0 +1,13 @@
+Package: Diagnostics
+Type: Package
+Title: Diagnostics Project for AI
+Version: 1.2.0
+Author: Mike Ashcroft
+Maintainer: Mike Ashcroft <michael.ashcroft@it.uu.se>
+Description: Diagnostics Project for AI course at Uppsala University
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
+NeedsCompilation: no
+Packaged: 2018-09-21 08:38:10 UTC; Mike
